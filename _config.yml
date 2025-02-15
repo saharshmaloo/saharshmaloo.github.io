@@ -25,7 +25,11 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Saharsh Maloo
+<<<<<<< HEAD
   image             : "/profile_pic.JPG"
+=======
+  image             : "saharshmaloo.github.io/profile_pic.jpg"
+>>>>>>> f6e9adac05ada1208fc012ef8a94c45cbcc41353
 # behance           : your_username
 # dribbble          : your_username
   email             : saharsh.maloo@gmail.com
