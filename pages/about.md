@@ -8,7 +8,9 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm a computer science student at the University of Maryland. <br>
+Take a look at what I've worked on through my personal website. <br>
+Feel free to reach out to me via linkedin @ linkedin.com/in/saharsh-maloo/
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

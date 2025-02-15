@@ -1,17 +1,54 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Undergraduate Researcher, Molloy Lab
+  from: January, 2025
+  to: Present
+  description: Worked with a professor to evaluate 
+               the effectiveness of the ASTRAL tree 
+               rooting algorithm. Designed and conducted 
+               experiments on species tree accuracy, 
+               analyzing the impact of annotation 
+               preprocessing. Independently authored a 
+               scientific paper as the first author, 
+               presenting key findings and methodology.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Engineer, Quadrant Technologies
+  from: June, 2024
+  to: August, 2024
+  description: Developed and deployed 'Vamsa,' 
+               a social media app connecting 
+               families to their heritage, as part 
+               of a 7-member team. Designed a graph-based 
+               database schema for efficient family 
+               relationship storage. Led front-end development 
+               using React Native and integrated it with 
+               an Azure SQL Database backend. Automated 
+               deployment using Azure DevOps CI/CD pipelines, 
+               ensuring 99.99% uptime. Contributed to financial 
+               planning and market strategy, identifying key 
+               metrics for a $150M market opportunity.
+
+- title: Software Engineer Intern, Quadrant Technologies
+  from: June, 2024
+  to: August, 2024
+  description: Developed and deployed 'Vamsa,' 
+               a social media app connecting 
+               families to their heritage, as part 
+               of a 7-member team. Designed a graph-based 
+               database schema for efficient family 
+               relationship storage. Led front-end development 
+               using React Native and integrated it with 
+               an Azure SQL Database backend. Automated 
+               deployment using Azure DevOps CI/CD pipelines, 
+               ensuring 99.99% uptime. Contributed to financial 
+               planning and market strategy, identifying key 
+               metrics for a $150M market opportunity.
+
+
+- title: Student, University of Maryland CP
+  from: August, 2023
+  to: May, 2026
+  description: I'm a Computer Science student at the 
+               University of Maryland, College Park, 
+               specializing in Machine Learning and Distributed Systems. 
+               With a 3.74 GPA (3.93 in my major), I’m passionate 
+               about building intelligent, scalable systems and 
+               solving complex problems through code.
