@@ -1,66 +1,60 @@
 - title: Undergraduate Researcher, Molloy Lab  
   from: January, 2025  
   to: Present  
-  description:  
-  At Molloy Lab, I evaluate the effectiveness of the ASTRAL tree rooting algorithm,  
-  focusing on improving species tree accuracy. By studying duplication and loss rate effects,  
-  I enhanced annotation accuracy by 20%, while optimizing ASTRAL’s pipeline reduced processing time by 25%.  
-  My work culminated in a 12-page research paper detailing findings, methodologies,  
-  and recommendations for future studies.  
+  description:  At Molloy Lab, I evaluate the effectiveness of the ASTRAL tree rooting algorithm,  
+                focusing on improving species tree accuracy. By studying duplication and loss rate effects,  
+                I enhanced annotation accuracy by 20%, while optimizing ASTRAL’s pipeline reduced processing time by 25%.  
+                My work culminated in a 12-page research paper detailing findings, methodologies,  
+                and recommendations for future studies.  
 
 - title: Software Engineer, Camp Starfish  
   from: January, 2025  
   to: Present  
-  description:  
-  As a Software Engineer at Camp Starfish, I built a photo web app for over 300 campers  
-  using Next.js, Firebase, and AWS Rekognition, automating more than 95% of the photo tagging process.  
-  To improve efficiency, I developed an automated scheduling system for over 50 campers per session,  
-  reducing conflicts by 60%. Additionally, I optimized Firestore queries, cutting photo retrieval time by 40%,  
-  and implemented secure role-based authentication. Leading the front-end development using React, TypeScript,  
-  and TailwindCSS, I ensured a highly responsive UI across all devices.  
+  description:  As a Software Engineer at Camp Starfish, I built a photo web app for over 300 campers  
+                using Next.js, Firebase, and AWS Rekognition, automating more than 95% of the photo tagging process.  
+                To improve efficiency, I developed an automated scheduling system for over 50 campers per session,  
+                reducing conflicts by 60%. Additionally, I optimized Firestore queries, cutting photo retrieval time by 40%,  
+                and implemented secure role-based authentication. Leading the front-end development using React, TypeScript,  
+                and TailwindCSS, I ensured a highly responsive UI across all devices.  
 
 - title: IT Technician, A. James Clark School of Engineering, UMD  
   from: June, 2024  
   to: Present  
-  description:  
-  At the A. James Clark School of Engineering, I provide IT support across 14 buildings,  
-  assisting over 200 faculty members and 6,000 students. I manage and resolve more than 40 technical support  
-  tickets weekly, troubleshooting software and hardware issues while offering remote support through Bomgar.  
-  By streamlining IT workflows, I reduced response times by 20%, improving operational efficiency  
-  for faculty and students alike.  
+  description:  At the A. James Clark School of Engineering, I provide IT support across 14 buildings,  
+                assisting over 200 faculty members and 6,000 students. I manage and resolve more than 40 technical support  
+                tickets weekly, troubleshooting software and hardware issues while offering remote support through Bomgar.  
+                By streamlining IT workflows, I reduced response times by 20%, improving operational efficiency  
+                for faculty and students alike.  
 
 - title: Software Engineer, Quadrant Technologies  
   from: June, 2024  
   to: August, 2024  
-  description:  
-  During my time at Quadrant Technologies, I helped develop and launch *Vamsa*,  
-  a social media app designed to connect families with their heritage.  
-  Leading the front-end development in React Native, I created an intuitive user experience  
-  while integrating the app with an Azure SQL Database backend.  
-  I also designed a graph-based database schema, reducing query times by 40%  
-  and ensuring scalability to support over a million records.  
-  Additionally, I automated deployment with Azure DevOps CI/CD pipelines,  
-  reducing build times by 25% and ensuring 99.99% uptime.  
-  Beyond development, I contributed to financial strategy by identifying key metrics  
-  for a $150M market opportunity.  
+  description:  During my time at Quadrant Technologies, I helped develop and launch *Vamsa*,  
+                a social media app designed to connect families with their heritage.  
+                Leading the front-end development in React Native, I created an intuitive user experience  
+                while integrating the app with an Azure SQL Database backend.  
+                I also designed a graph-based database schema, reducing query times by 40%  
+                and ensuring scalability to support over a million records.  
+                Additionally, I automated deployment with Azure DevOps CI/CD pipelines,  
+                reducing build times by 25% and ensuring 99.99% uptime.  
+                Beyond development, I contributed to financial strategy by identifying key metrics  
+                for a $150M market opportunity.  
 
 - title: Computer Vision Research Assistant, Perception and Robotics Lab, UMD  
   from: November, 2023  
   to: March, 2024  
-  description:  
-  At the Perception and Robotics Lab, I developed an event-driven camera system using Python and OpenCV,  
-  achieving a tenfold increase in frame rate for robotics applications.  
-  I automated data workflows, reducing data preparation time by 40%,  
-  and integrated machine learning models with cameras, enhancing object detection accuracy by 20%.  
-  Additionally, I developed Python scripts for hardware integration,  
-  improving sensor communication reliability by 25%.  
+  description:  At the Perception and Robotics Lab, I developed an event-driven camera system using Python and OpenCV,  
+                achieving a tenfold increase in frame rate for robotics applications.  
+                I automated data workflows, reducing data preparation time by 40%,  
+                and integrated machine learning models with cameras, enhancing object detection accuracy by 20%.  
+                Additionally, I developed Python scripts for hardware integration,  
+                improving sensor communication reliability by 25%.  
 
 - title: Student, University of Maryland CP  
   from: August, 2023  
   to: May, 2026  
-  description:  
-  I am currently pursuing a Bachelor of Science in Computer Science at the University of Maryland, College Park,  
-  specializing in Machine Learning and Distributed Systems. With a 3.93 GPA in my major,  
-  I am passionate about building intelligent, scalable systems and solving complex problems through code.  
-  My coursework includes Algorithms, Object-Oriented Programming, Data Structures,  
-  Operating Systems, and AI/ML, which have shaped my problem-solving and technical skills.  
+  description:  I am currently pursuing a Bachelor of Science in Computer Science at the University of Maryland, College Park,  
+                specializing in Machine Learning and Distributed Systems. With a 3.93 GPA in my major,  
+                I am passionate about building intelligent, scalable systems and solving complex problems through code.  
+                My coursework includes Algorithms, Object-Oriented Programming, Data Structures,  
+                Operating Systems, and AI/ML, which have shaped my problem-solving and technical skills.  
