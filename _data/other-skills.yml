@@ -1,7 +1,7 @@
-- name: Collaboration
-  percentage: 95
+- name: React.js, Next.js
+  percentage: 100
   color: info
 
-- name: Initiative
-  percentage: 90
+- name: SQL Databases, Redis, AWS
+  percentage: 100
   color: success
