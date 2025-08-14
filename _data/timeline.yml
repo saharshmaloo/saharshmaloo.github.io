@@ -1,11 +1,25 @@
-- title: Undergraduate Researcher, Molloy Lab  
+- title: Software Engineering Intern, Narb AI  
+  from: June, 2025  
+  to: August, 2025  
+  description:  Building and Deploying NarbL a multi-LLM chatbot using Next.js, React, Typescript and OpenAI API  
+
+- title: AI/ML Researcher, MIT Critical Data Lab  
   from: January, 2025  
   to: Present  
-  description:  At Molloy Lab, I evaluate the effectiveness of the ASTRAL tree rooting algorithm,  
-                focusing on improving species tree accuracy. By studying duplication and loss rate effects,  
-                I enhanced annotation accuracy by 20%, while optimizing ASTRAL’s pipeline reduced processing time by 25%.  
-                My work culminated in a 12-page research paper detailing findings, methodologies,  
-                and recommendations for future studies.  
+  description:  Conducting a meta analysis of the effectiveness and bias of age detection AI algorithms
+
+- title:  Software Engineering Co-op, Hack4Impact
+  from: January, 2025  
+  to: May, 2025  
+  description:  Built a full-stack photo scheduling app for Camp Starfish using React, Firebase, and Firestore. 
+                Implemented CSV parsing and full CRUD functionality to manage photo metadata and scheduling.
+
+- title: Computational Biology Researcher, Molloy Lab  
+  from: January, 2025  
+  to: Present  
+  description:  Assessed ASTRAL-Pro's accuracy using SimPhy-simulated datasets. Developed node contraction 
+                algorithms and evaluated performance with tree error metrics (e.g., RF distance). Visualized 
+                results with matplotlib and seaborn.  
 
 - title: Software Engineer, Camp Starfish  
   from: January, 2025  
