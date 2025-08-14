@@ -1,11 +1,11 @@
 - name: Python
-  percentage: 90
+  percentage: 100
   color: danger
 
 - name: Java
-  percentage: 80
+  percentage: 100
   color:
 
-- name: Machine Learning
-  percentage: 70
+- name: JavaScript / TypeScript
+  percentage: 100
   color: secondary
