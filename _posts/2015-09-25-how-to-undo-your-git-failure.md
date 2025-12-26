@@ -1,6 +1,6 @@
 ---
 title: Blog Posts Coming
-tags: []
+tags: [blog, pasts]
 style: fill
 color: dark
 description: This is a placeholder for future blog posts
