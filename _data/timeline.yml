@@ -1,18 +1,18 @@
-- title: Software Engineering Intern, Narb AI  
-  from: June, 2025  
-  to: August, 2025  
-  description:  Building and Deploying NarbL a multi-LLM chatbot using Next.js, React, Typescript and OpenAI API  
-
 - title: AI/ML Researcher, MIT Critical Data Lab  
   from: January, 2025  
-  to: Present  
-  description:  Conducting a meta analysis of the effectiveness and bias of age detection AI algorithms
+  to: January, 2026
+  description:  Conducted a meta analysis of the effectiveness and bias of age detection AI algorithms
 
 - title:  Software Engineering Co-op, Hack4Impact
   from: January, 2025  
-  to: May, 2025  
+  to: January, 2026  
   description:  Built a full-stack photo scheduling app for Camp Starfish using React, Firebase, and Firestore. 
                 Implemented CSV parsing and full CRUD functionality to manage photo metadata and scheduling.
+
+- title: Software Engineering Intern, Narb AI  
+  from: June, 2025  
+  to: August, 2025  
+  description:  Built and Deployed NarbL a multi-LLM chatbot using Next.js, React, Typescript and OpenAI API
 
 - title: Computational Biology Researcher, Molloy Lab  
   from: January, 2025  
@@ -24,7 +24,7 @@
 - title: Software Engineer, Quadrant Technologies  
   from: June, 2024  
   to: August, 2024  
-  description:  Built Vamsa, a full stack social benefit application in ReactJS with a MongoDB backend. 
+  description:  Built Vamsa, a full stack social benefit application in ReactJS with a Neo4j backend. 
                 Deployed the web application on Azure Cloud Services via CI/CD pipelines.
 
 - title: Computer Vision Research Assistant, Perception and Robotics Lab, UMD  
