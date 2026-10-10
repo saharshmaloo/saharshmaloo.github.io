@@ -1,40 +1,14 @@
-- title: AI/ML Researcher, MIT Critical Data Lab  
-  from: January, 2025  
-  to: January, 2026
-  description:  Conducted a meta analysis of the effectiveness and bias of age detection AI algorithms
+- title: Software Engineering Intern, Databricks
+  from: May, 2026
+  to: August, 2026
+  description: >-
+    Worked on enabling Databricks Genie, an AI-powered analytics platform, to securely query enterprise data distributed across multiple cloud regions.<br><br>
 
-- title:  Software Engineering Co-op, Hack4Impact
-  from: January, 2025  
-  to: January, 2026  
-  description:  Built a full-stack photo scheduling app for Camp Starfish using React, Firebase, and Firestore. 
-                Implemented CSV parsing and full CRUD functionality to manage photo metadata and scheduling.
+    Implemented end-to-end support for Global Unity Catalog across the React frontend, Scala backend, and Python LLM pipeline, extending metadata resolution, SQL generation, and data access workflows while maintaining backwards compatibility.<br><br>
 
-- title: Software Engineering Intern, Narb AI  
-  from: June, 2025  
-  to: August, 2025  
-  description:  Built and Deployed NarbL a multi-LLM chatbot using Next.js, React, Typescript and OpenAI API
-
-- title: Computational Biology Researcher, Molloy Lab  
-  from: January, 2025  
-  to: Present  
-  description:  Assessed ASTRAL-Pro's accuracy using SimPhy-simulated datasets. Developed node contraction 
-                algorithms and evaluated performance with tree error metrics (e.g., RF distance). Visualized 
-                results with matplotlib and seaborn.  
-
-- title: Software Engineering Intern, Quadrant Technologies  
-  from: June, 2024  
-  to: August, 2024  
-  description:  Built Vamsa, a full stack social benefit application in ReactJS with a Neo4j backend. 
-                Deployed the web application on Azure Cloud Services via CI/CD pipelines.
-
-- title: Computer Vision Research Assistant, Perception and Robotics Lab, UMD  
-  from: November, 2023  
-  to: March, 2024  
-  description:  Developed an event-driven camera system using Python and OpenCV, 
-                achieving a tenfold increase in frame rate for robotics applications.  
-                I also integrated machine learning models with cameras, enhancing object detection accuracy by 20%.
+    Collaborated with infrastructure and security teams to investigate cross-region authorization challenges, identify potential vulnerabilities in delegated permissions, and design scalable solutions for secure data access.
 
 - title: Student, University of Maryland  
   from: August, 2023  
   to: May, 2026  
-  description:  Bachelor of Science in Computer Science (CS Honors, Dean's List) 
+  description:  Bachelor of Science in Computer Science
